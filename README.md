@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=00FA9A&height=300&section=header&text=YeJinJang&fontSize=90)
 
+<br>
+
 Studing
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
@@ -25,6 +27,7 @@ Studing
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
+<br>
 <br>
 
 Tools
