@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-✔ Studing
+❣ Studing
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=Flat-square&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Flat-square&logo=Thymeleaf&logoColor=white">
