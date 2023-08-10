@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ❣ Studing
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=Flat-square&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Flat-square&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=Flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=Flat-square&logo=Javascript&logoColor=white">
