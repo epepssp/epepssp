@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ✔ Studing
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=Flat-square&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=Flat-square&logo=Thymeleaf&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=Flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Flat-square&logo=Javascript&logoColor=white">
 </div>
 
 <br>
