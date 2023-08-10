@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-Studing
+✔ Studing
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
@@ -30,7 +30,7 @@ Studing
 <br>
 <br>
 
-Tools
+✔ Tools
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
