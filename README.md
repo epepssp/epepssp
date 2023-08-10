@@ -1,4 +1,4 @@
-
+       <link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet'>
 
 <!--
 **epepssp/epepssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=00FA9A&height=150&section=header&text=Hi,&nbsp;there!&nbsp;&nbsp;I'm&nbsp;YeJin&nbsp;Jang&fontSize=50)
 
+  .dosis {
+          font-family: 'Dosis',  sans-serif;
+          font-size: 35px;
+           animation: bounce 2s infinite;
+      }
+
 <br>
 
 ❣ Studing
-<div style="display: flex;">
+<div class="dosis" style="display: flex;">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=Flat-square&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Flat-square&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=Flat-square&logo=Oracle&logoColor=white">
