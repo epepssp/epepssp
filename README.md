@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=00FA9A&height=300&section=header&text=YeJinJang&fontSize=90)
+
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
